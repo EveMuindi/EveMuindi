@@ -13,7 +13,7 @@ I specialize in delivering end-to-end IT solutions that enhance business operati
 
 📫 **Email**: [muindieverlyne38@gmail.com](mailto:muindieverlyne38@gmail.com)  
 🔗 **LinkedIn**: [linkedin.com/in/everlyne-muindi](https://www.linkedin.com/in/everlyne-muindi)  
-🌐 **Portfolio**: [https://everlynetech.github.io](https://everlynetech.github.io)
+🌐 **Portfolio**: 
 
 ---
 
